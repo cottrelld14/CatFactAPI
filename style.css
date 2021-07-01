@@ -1,0 +1,42 @@
+button{
+    width: 30em;
+    height: 5em;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 6em;
+    
+    font-family: 'Roboto': sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    border: 1px solid #012880;
+	background-image: linear-gradient(-180deg, #FF89D6 0%, #C01F9E 100%);
+	box-shadow: 0 1rem 1.25rem 0 rgba(22,75,195,0.50),
+							0 -0.25rem 1.5rem rgba(110, 15, 155, 1) inset,
+							0 0.75rem 0.5rem rgba(255,255,255, 0.4) inset,
+							0 0.25rem 0.5rem 0 rgba(180, 70, 207, 1) inset;
+}
+
+button span {
+	color: transparent;
+	background-image: linear-gradient(0deg, #82ee90 0%, #FEFAFD 100%);
+	-webkit-background-clip: text;
+	background-clip: text;
+	filter: drop-shadow(0 2px 2px rgb(8, 205, 240));
+    }
+    
+    p{
+      text-align:center;
+      margin-top: 10%;
+      font-size: 30px;
+      background-color: white;
+      font-family: 'Roboto': sans-serif;
+      
+    }
+
+    body{
+        
+        background-image: url("./Assets/charlie-deets-TKgOIwPVmkg-unsplash.jpg");
+        background-size:50em;
+    }
+    
+    
